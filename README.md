@@ -4,3 +4,4 @@
 ![AND](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/5b267965-2ecb-40b1-b99d-eef36f6b8940)
 ![XOR](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/58bc5a22-4bc2-4466-a90e-27db1917d91a)
 ![MUX](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/a25f83f5-37d1-4158-8049-1eb1e008a2a8)
+![DMUX](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/c4e9b798-ac36-4362-ba70-46313c8bdf59)
