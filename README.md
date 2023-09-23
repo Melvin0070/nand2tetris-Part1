@@ -9,3 +9,4 @@
 ![Fulladder](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/ca4c1355-3b3e-41e7-abcf-0b55bd492531)
 ![add16](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/73cfcefb-6720-42e6-b3a2-0f798688a6e8)
 ![inc16](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/81d9384e-6615-4473-9ea0-0d348923552d)
+![alu](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/b7423202-6aed-4127-b512-455d39e209e3)
