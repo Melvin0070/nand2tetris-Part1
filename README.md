@@ -6,3 +6,4 @@
 ![MUX](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/a25f83f5-37d1-4158-8049-1eb1e008a2a8)
 ![DMUX](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/c4e9b798-ac36-4362-ba70-46313c8bdf59)
 ![Halfadder](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/fefe4e25-2186-4a6d-85c5-ed200d08362d)
+![Fulladder](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/ca4c1355-3b3e-41e7-abcf-0b55bd492531)
