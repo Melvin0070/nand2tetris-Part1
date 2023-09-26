@@ -27,4 +27,7 @@
 ![register](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/cba9593f-0d05-48fb-83a1-6a39208df4df)
 # RAM8
 ![ram8](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/09501385-2f9c-4325-a42f-d535eb0aad39)
+# RAM64
+![ram64](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/5ace7e08-17fc-45a8-bb4d-731e8fbb9e02)
+
 
