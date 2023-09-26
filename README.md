@@ -33,6 +33,8 @@
 ![ram512](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/bc7c7858-0016-49c0-a4fb-864f6d1bbd52)
 # RAM4K
 ![ram4k](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/1d88deb1-0133-4abd-aa31-d41263c82a83)
+# PC
+![pc](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/9b9f2e6b-b617-4f19-9857-2845bb46269f)
 
 
 
