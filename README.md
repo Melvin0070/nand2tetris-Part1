@@ -42,6 +42,11 @@ Note: Ctrl+F -> "Name of the file" to find.
 ![Fill](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/dbad3522-ec6f-4595-9bdd-df7586c81b4b)
 # Memory
 ![Memory](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/d6678ab0-e51b-476c-9568-453c693d5386)
+# CPU
+![CPU](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/0a699b01-7cb2-479f-aa8b-2ff81ac6f6c1)
+# Computer
+![Computer](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/6102223f-e96f-4608-b111-cce31669afd6)
+# 
 
 
 
