@@ -40,7 +40,8 @@ Note: Ctrl+F -> "Name of the file" to find.
 ![Mult](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/17a6c485-25c6-4197-80e2-6323bd4bfb55)
 # FILL
 ![Fill](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/dbad3522-ec6f-4595-9bdd-df7586c81b4b)
-
+# Memory
+![Memory](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/d6678ab0-e51b-476c-9568-453c693d5386)
 
 
 
