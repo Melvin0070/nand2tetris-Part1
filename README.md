@@ -1,4 +1,5 @@
 # nand2tetris-Part1
+Note: Ctrl+F -> "Name of the file" to find.
 # NOT
 ![NOT](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/b94f6eee-146f-4e57-b760-9d23223735a8)
 # OR
