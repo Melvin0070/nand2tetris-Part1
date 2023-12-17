@@ -46,7 +46,10 @@ Note: Ctrl+F -> "Name of the file" to find.
 ![CPU](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/0a699b01-7cb2-479f-aa8b-2ff81ac6f6c1)
 # Computer
 ![Computer](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/6102223f-e96f-4608-b111-cce31669afd6)
-# 
+# Computer Rectangle
+![ComputerRect](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/11693f6d-a6ed-406f-b640-141261ee88ea)
+
+
 
 
 
