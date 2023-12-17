@@ -48,6 +48,9 @@ Note: Ctrl+F -> "Name of the file" to find.
 ![Computer](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/6102223f-e96f-4608-b111-cce31669afd6)
 # Computer Rectangle
 ![ComputerRect](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/11693f6d-a6ed-406f-b640-141261ee88ea)
+# Pong
+![Pong](https://github.com/Melvin0070/nand2tetris-Part1/assets/139456150/6b8461e3-8a37-4db5-920a-f68682c25c64)
+
 
 
 
